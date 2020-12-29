@@ -14,4 +14,9 @@ Generated Wordclouds of day-wise Modulated Chats
 Sample-
 ![Cloud 5](https://github.com/Saranga7/topic-modelling-wordcloud/blob/main/Generated%20WordClouds_Notitia/cloud5.png)
 
+## Local Deployment
+- Used Flask microwaveframework
+- User can upload a Whatsapp chat text file
+- WordCloud of the chat data would be generated
+
 
