@@ -12,6 +12,6 @@ Used Latent Dirichlet Allocation (LDA) to cluster similar topics
 # WordCloud
 Generated Wordclouds of day-wise Modulated Chats 
 Sample-
-!(https://github.com/Saranga7/topic-modelling-wordcloud/blob/main/Generated%20WordClouds_Notitia/cloud5.png)
+![Cloud 5](https://github.com/Saranga7/topic-modelling-wordcloud/blob/main/Generated%20WordClouds_Notitia/cloud5.png)
 
 
